@@ -1,2 +1,2 @@
 # ratalaada
-Resuelve los acertijos para debelar la verdad &lt;?> : https://bartkayboard.github.io/ratalaada/
+Resuelve los acertijos para debelar la verdad &lt;?> : https://github.com/JojuGeorge/rataalada.git
