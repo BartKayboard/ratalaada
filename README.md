@@ -1,14 +1,16 @@
-# rataalada
+ #rataalada _
 
-### THE BATMAN 2022 - RIDDLERS WEBSITE 
-## Goto [rataalada.com](https://jojugeorge.github.io/rataalada/) to access riddlers website from THE BATMAN 2022 Movie. 
+EL SITIO WEB DE BATMAN 2022 - RIDDLERS
+##  IR A -> https://jojugeorge.github.io/rataalada/
+###  EL SITIO WEB DE BATMAN 2022 - RIDDLERS
+##  Ir a [ rataalada.com ](https://jojugeorge.github.io/rataalada/) para acceder al sitio web de los acertijos de la película THE BATMAN 2022.
 
-Upon solving the riddles get the reward - The truth will be unmasked <?>
+Al resolver los acertijos obtén la recompensa - La verdad será desenmascarada <?>
 
-##  https://jojugeorge.github.io/rataalada/
+##   https://jojugeorge.github.io/rataalada/
 
 
-YOU ARE EL RATA ALADA
+ERES LA RATA ALADA
 
 
 <p>
@@ -19,4 +21,4 @@ YOU ARE EL RATA ALADA
 
 
 
-CREATED BY JOJU GEORGE
+CREADO POR JOJU GEORGE
